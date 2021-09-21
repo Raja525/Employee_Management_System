@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+#navbar
+{
+	font-family:'Carattere', cursive;
+	padding:2%;
+	font-weight:900;
+	font-size:24px;
+	width:100%;
+	text-align:center;
+}
+#navbar nav
+{
+	text-align:left;
+	color:black;
+	font-family:'Montserrat',sans-serif;
+}
+#container .form-control
+{
+	background-color:transparent;
+	border:solid 1px black;
+}
+#section1
+{
+	width:500px;
+	padding:40px 40px 20px 40px;
+	
+}
+#section2
+{
+	width:500px;
+	padding:20px 40px;
+	
+}
+#section1 *,#section2 *
+{
+	margin-bottom:10px;
+}
+#container
+{
+	background-position:center;
+	background-size:cover;
+	background-image:url('../images/bg.jpg');
+	background-repeat:no-repeat;
+}
+

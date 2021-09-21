@@ -1,0 +1,47 @@
+#box a{
+	text-decoration: none;
+	color:black;
+}
+#sidebar,#contentpage
+{
+	
+	height:100vh;
+}
+#sidebar
+{
+	background-color: #112031;
+}
+#contentpage
+{
+	background-color: #EFEFEF;
+	padding:2% 5%;
+}
+#box.row
+{
+	margin:0;
+	padding:0;
+}
+#header
+{
+	text-align: center;
+	font-family:'Montserrat', sans-serif;
+	weight:900;
+	padding:5% 0 10% 0;
+	color:white;
+}
+.links
+{
+	padding:5% 20%;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 16px;
+	color:white;
+}
+#formbox
+{
+	background-color: white;
+	padding:5% 10%;
+}
+#formbox input
+{
+	margin-bottom: 10px;
+}

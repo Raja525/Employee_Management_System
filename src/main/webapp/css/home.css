@@ -1,0 +1,21 @@
+#box
+{
+	
+	height:100vh;
+	width:100%;
+}
+#box input
+{
+	margin-bottom: 20px;
+}
+#imgbox
+{
+	background-image:url('../images/bc.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#contentbox
+{
+	padding:15%;
+}
